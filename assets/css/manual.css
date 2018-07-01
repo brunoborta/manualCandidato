@@ -1,0 +1,26 @@
+.fixed-section {
+    top: 90px;
+    max-height: 80vh;
+    overflow: scroll;
+    position: sticky;
+}
+.fixed-section ul {
+    padding: 0;
+}
+.fixed-section ul li {
+    list-style: none;
+}
+.fixed-section li a {
+    font-size: 14px;
+    padding: 2px;
+    display: block;
+    color: #666666;
+}
+.topic-row {
+    padding-top: 60px;
+    margin-bottom: 20px;
+}
+
+.section.topics {
+    padding-top: 0;
+}
